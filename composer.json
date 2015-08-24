@@ -12,8 +12,8 @@
     "type": "yii2-extension",
     "require": {
         "php": ">=5.4.0",
-        "yiisoft/yii2": "*",
-        "bower-asset/sweetalert": "0.4.*"
+        "yiisoft/yii2": "2.0.*",
+        "bower-asset/sweetalert": "1.1.*"
     },
     "autoload": {
         "psr-4": {

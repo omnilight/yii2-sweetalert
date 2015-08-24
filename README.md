@@ -14,4 +14,4 @@ Add composer dependence in composer.json
 and run composer update
 
 ## License
-Auth module is released under the MIT License. See the bundled `LICENSE.md` for details.
+Extension is released under the MIT License. See the bundled `LICENSE.md` for details.
